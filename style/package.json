@@ -1,0 +1,14 @@
+{
+  "name": "style",
+  "version": "1.0.0",
+  "description": "Feuille SCSS",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch style.scss:style.css --style compressed"
+  },
+  "author": "Clément Gaudinière",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.32.7"
+  }
+}
